@@ -18,13 +18,13 @@ Download yolov3.weights for COCO dataset from this link and add it to the yolov3
 
 ## Steps to run the code
 
-`<cd  Social-Distancing-Alert-with-Convolutional-Neural-Network>`
+`cd  Social-Distancing-Alert-with-Convolutional-Neural-Network`
 
 To deploy algorithm on images,
-`<python3 SD_Alert_Image.py>`
+`python3 SD_Alert_Image.py`
 
 To deploy algorithm on videos,
-`<python3 SD_Alert_Video.py>`
+`python3 SD_Alert_Video.py`
 
 To deploy algorithm on live streaming webcam,
-`<python3 SD_Alert_Camera.py>`
+`python3 SD_Alert_Camera.py`
