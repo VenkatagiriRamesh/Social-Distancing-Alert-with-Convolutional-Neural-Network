@@ -1,5 +1,5 @@
 # Social Distance Alert with Convolutional Neural Network
-Social Distance Alert with Convolutional Neural Network
+
 1. Detect the humans in the frame with yolov3 convolutional neural network.
 2. Calculate the distance between all the instances of humans detected in the frame.
 3. Classify the determined distances as 'Alert' or 'Ok' for social distancing.
@@ -7,11 +7,11 @@ Social Distance Alert with Convolutional Neural Network
 ![](output.jpg)
 
 ## Requirements
-Numpy
-Time
-OpenCV
-OpenCV_contrib
-Math
+1. Numpy
+2. Time
+3. OpenCV
+4. OpenCV_contrib
+5. Math
 
 Download yolov3.weights for COCO dataset from this link and add it to the yolov3 directory,
 [click here](https://pjreddie.com/darknet/yolo/)
