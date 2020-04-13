@@ -4,7 +4,7 @@ Social Distance Alert with Convolutional Neural Network
 2. Calculate the distance between all the instances of humans detected in the frame.
 3. Classify the determined distances as 'Alert' or 'Ok' for social distancing.
 
-![](/output.png)
+![](output.png)
 
 ## Requirements
 Numpy
